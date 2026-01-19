@@ -10,7 +10,7 @@ datos (estructurados y no estructurados).
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Diseñar y documentar un flujo de web scraping que:
 - Extraiga información de sitios web de cursos u otras fuentes públicas.
@@ -21,7 +21,7 @@ Diseñar y documentar un flujo de web scraping que:
 
 ---
 
-## 🧠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **n8n**: Orquestación de flujos de trabajo automatizados.
 - **Servicios de scraping especializados (ej. Firecrawl)**: Para interactuar con
@@ -35,7 +35,7 @@ Diseñar y documentar un flujo de web scraping que:
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 n8n-projects/
