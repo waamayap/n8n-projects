@@ -1,46 +1,9 @@
-# Proyecto de Web Scraping con Inteligencia Artificial
+# Proyectos en n8n
 
-Este repositorio contiene un proyecto de web scraping diseñado para extraer,
-procesar y almacenar información de sitios web de forma automatizada, utilizando
-inteligencia artificial y flujos de trabajo escalables con n8n.
+Este repositorio contiene proyectos desarrollados en n8n, enfocados en la automatización de flujos de trabajo que integran Web Scraping, Inteligencia Artificial y procesamiento de datos, permitiendo la recolección, transformación y uso de información de manera eficiente y escalable.
 
-El proyecto se basa en un enfoque modular y por etapas, permitiendo manejar
-sitios con estructuras cambiantes, protecciones anti-bot y distintos tipos de
-datos (estructurados y no estructurados).
+## Listado de proyectos
 
----
+###Proyecto 01 – Web Scraping con Inteligencia Artificial
 
-## Objetivo del Proyecto
-
-Diseñar y documentar un flujo de web scraping que:
-- Extraiga información de sitios web de cursos u otras fuentes públicas.
-- Utilice modelos de IA para interpretar el contenido de forma flexible.
-- Procese el HTML crudo y lo transforme en texto limpio y estructurado.
-- Almacene los resultados en herramientas adecuadas según el tipo de dato.
-- Sea escalable, reutilizable y fácil de mantener.
-
----
-
-## Tecnologías Utilizadas
-
-- **n8n**: Orquestación de flujos de trabajo automatizados.
-- **Servicios de scraping especializados (ej. Firecrawl)**: Para interactuar con
-  sitios web protegidos y evitar bloqueos comunes (403 Forbidden).
-- **Inteligencia Artificial (OpenAI)**: Extracción semántica de información y
-  refinamiento del contenido.
-- **HTML → Markdown**: Preprocesamiento para mejorar la calidad del texto.
-- **JSON estructurado**: Salida de datos lista para ser utilizada por otros nodos.
-- **Google Sheets**: Almacenamiento de datos estructurados (URLs, nombres, precios, etc.).
-- **Google Docs**: Almacenamiento de contenido extenso y semiestructurado.
-
----
-
-## Estructura del Repositorio
-
-```text
-n8n-projects/
-├── project-web-scraping/
-│   ├── workflows/        # Flujos exportados desde n8n (.json)
-│   ├── docs/             # Documentación adicional del proyecto
-│   └── README.md         # Descripción específica del proyecto
-└── README.md             # Este archivo
+Automatización de la extracción de datos web mediante n8n, utilizando IA para limpiar y estructurar la información recolectada.
