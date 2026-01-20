@@ -4,6 +4,6 @@ Este repositorio contiene proyectos desarrollados en n8n, enfocados en la automa
 
 ## Listado de proyectos
 
-###Proyecto 01 – Web Scraping con Inteligencia Artificial
+### Proyecto 01 – Web Scraping con Inteligencia Artificial
 
 Automatización de la extracción de datos web mediante n8n, utilizando IA para limpiar y estructurar la información recolectada.
